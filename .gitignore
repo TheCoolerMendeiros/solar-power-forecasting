@@ -1,0 +1,5 @@
+# Virtual Environment
+.venv/
+# General Python ignore rules
+__pycache__/
+*.pyc
